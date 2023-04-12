@@ -1,0 +1,6 @@
+[submodule "nonskip_classic_api"]
+	path = nonskip_classic_api
+	url = https://github.com/nonskip/nonskip_classic_api.git
+[submodule "nonskip_classic_frontend"]
+	path = nonskip_classic_frontend
+	url = https://github.com/nonskip/nonskip_classic_frontend.git
