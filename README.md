@@ -2,7 +2,7 @@
 
 [Nonskip Classic 소개](https://www.youtube.com/watch?v=D-e83xHWDYQ)|
 --- |
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/56193069/231324670-afe4326c-4ffe-493c-b23e-5918f69de21e.png"> |
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56193069/231324670-afe4326c-4ffe-493c-b23e-5918f69de21e.png"> |
 
 
 🤔 왜 만들게 됐나?
@@ -42,11 +42,18 @@
 ChatGPT/ 작가와 맥락 속에서 나눈 대화도 자동으로 기록해요. 노션의 REST API와 연동하여 맥락과 깨우침이 담긴 나만의 단어장을 기록해요. Nonskip Classic을 지워도 언제든 복기할 수 있어요 😊
 
 
+# Logs 📝
+
+[생각하고, 만들고, 기록하고, 공유하자. 그것이 메이커의 낭만.](https://www.notion.so/eubinecto/Classic-by-Nonskip-bdb9f6e0fe8146c0bf4ed7dde8d6a71d?pvs=4) | 
+--- | 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/56193069/231431831-3490e050-5b8a-4b7b-b741-1f5ed338efed.png"> | 
+
+
 # Team Nonskip
 
-... | ... | 
+이름 (책임) | ... | 
 --- | --- | 
-... | ... | 
+프로필 | ... | 
 
 
 
