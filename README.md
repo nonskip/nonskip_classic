@@ -51,9 +51,9 @@ Logs 📝
 
 Team Nonskip
 
-이름 (책임) | ... | 
---- | --- | 
-프로필 | ... | 
+이름<br>(책임) | [Hayheon Choi](https://github.com/hahyeon610)<br>(Suggest, Explain, CoffeeChat) | 
+--- | :---: | 
+프로필 | <img width="100" alt="image" src="https://avatars.githubusercontent.com/u/49430956?v=4"> | 
 
 
 
